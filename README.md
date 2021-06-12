@@ -7,6 +7,11 @@ Carousel manufacturer with multi-container capability
 - [Arguments](#Arguments)
 - [Example](#Example)
 
+### Setting up
+
+Include files `carousel.pn.js`, `carousel.pn.css` and Jquery in your project
+
+
 <a name="Dependencies"/>
 
 ### Dependencies
