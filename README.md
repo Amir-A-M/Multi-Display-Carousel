@@ -1,6 +1,8 @@
 # Multi-Display Carousel
 Carousel manufacturer with multi-container capability
 
+[Demo](https://codepen.io/mr_mousavi/pen/BaRWLrX)
+
 ![](https://user-images.githubusercontent.com/60928821/121765209-82fe4b80-cb5e-11eb-9b25-a0df445d08b7.png)
  
 - [Dependencies](#Dependencies)
